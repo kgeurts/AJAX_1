@@ -1,0 +1,18 @@
+body{
+font-size: 20px;
+font-family: sans-serif;
+}
+
+.wrapper{
+	width: 30%;
+	margin: auto;
+    width: 30%;
+    border: 9px ridge #7F7F7F;
+    padding: 10px;
+    text-align: center;
+    background-color: #A5A5A5;
+    border-radius: 5px;
+}
+input{
+	float: left;
+}
